@@ -1,0 +1,13 @@
+count(order_id),monthname(order_date)
+58,March
+54,February
+61,January
+41,December
+31,August
+43,October
+44,April
+46,November
+30,September
+30,June
+31,July
+31,May
